@@ -1,0 +1,19 @@
+{
+    "mainpoll_time": "300",
+    "ptz_workVangle": "68",
+    "ptz_VangleUplimit": "80",
+    "ptz_VangleDownlimit": "5",
+    "ptz_HangleLeftlimit": "120",
+    "ptz_HangleRightlimit": "240",
+    "workPowerVolume": "50",
+    "fieldworkPowerVolume0": "25",
+    "fieldworkPowerVolume1": "25",
+    "fieldworkPowerVolume2": "25",
+    "fieldworkPowerVolume3": "25",
+    "fieldworkPowerVolume4": "25",
+    "fieldworkPowerVolume5": "25",
+	"mainDormancy":"1",
+	"fieldDormancy": "1",
+	"cameraoff":"0",
+	"dBtrigger":"100"
+}
